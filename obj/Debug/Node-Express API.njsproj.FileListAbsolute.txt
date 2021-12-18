@@ -1,0 +1,3 @@
+C:\NodeJS Projects\Node-Express API\obj\Debug\Node-Express API.njsproj.AssemblyReference.cache
+C:\NodeJS Projects\Node-Express API\obj\Debug\Node-Express API.njsproj.CoreCompileInputs.cache
+C:\NodeJS Projects\Node-Express API\bin\Microsoft.NodejsTools.WebRole.dll

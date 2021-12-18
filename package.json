@@ -1,0 +1,17 @@
+{
+  "name": "express-api",
+  "version": "0.0.0",
+  "description": "Node-Express API",
+  "main": "server.js",
+  "author": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "mongoose": "^6.1.2"
+  }
+}
